@@ -10,7 +10,7 @@ Data ini telah diuji dan dapat divisualisasikan dengan benar menggunakan *tool* 
 
 Karena formatnya yang universal, GeoJSON sangat populer dan didukung oleh hampir semua perangkat lunak GIS dan *library* pemetaan web (seperti Leaflet, Mapbox, dan Google Maps API).
 
-##  Sadržaj (Isi Data)
+##  Isi
 
 File `map.geojson` ini adalah sebuah `FeatureCollection`, yang berarti file ini berisi *kumpulan* dari berbagai fitur geografis.
 
