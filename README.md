@@ -1,4 +1,4 @@
-# Peta Jalan Wilayah Saya (Data GeoJSON)
+# Peta Jalan Wilayah (Data GeoJSON)
 
 Repositori ini berisi data geospasial yang memetakan jaringan jalan, gang, dan jalur di sebuah wilayah di Indonesia. Data ini disimpan dalam satu file, `map.geojson`.
 
@@ -32,5 +32,4 @@ Properti tambahan juga disertakan, seperti `surface` (jenis permukaan jalan, mis
 File `map.geojson` ini dapat langsung digunakan untuk visualisasi data atau analisis geospasial. Anda dapat memuatnya menggunakan:
 
 * Layanan online seperti **geojson.io** untuk visualisasi dan pengecekan cepat.
-* Perangkat lunak GIS desktop (seperti **QGIS** atau **ArcGIS**).
-* *Library* pemetaan web (seperti **Leaflet.js**, **Mapbox GL JS**, atau **Google Maps API**).
+* *Library* pemetaan web (**Google Maps API**).
